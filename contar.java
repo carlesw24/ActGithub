@@ -39,7 +39,8 @@ public class Ejercicio2 {
 		if (contMarron > 0) {
 			System.out.println("SI se ha encontrado un huevo marrón entre dos blancos.");
 		}
-
+		
+			System.out.println("Hola estamos desde nuestro repositorio local.");
 	}
 	//Esta función nos genera números aleatorios y también nos suma los números generados.
 	public static void generarnumeros (int [ ] numeros, int fin, int ini) {
